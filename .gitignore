@@ -1,0 +1,25 @@
+# Specific file
+
+chip8testo1.txt
+teoria.txt
+riassuntogemini.py
+valutazionetextgemini.py
+
+# File.o
+
+*.o
+
+# Executable
+
+chip8
+*.exe 
+*.out 
+
+# Directory
+
+.venv 
+
+# Python cache
+
+__pycache__/
+
